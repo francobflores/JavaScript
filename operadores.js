@@ -1,4 +1,4 @@
-// operator ternary
+//ternary  operator 
 
 let pao = true
 let queijo = false
