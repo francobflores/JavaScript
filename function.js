@@ -1,6 +1,23 @@
 //function expression
 
-//parameters
+// how declaretion a function
+
+//Ex: declaration a function creatPhrases()
+
+function creatPhrases() {
+    console.log('Estudar é muito bom')
+    console.log('Paciência e persistência')
+    console.log('Revisão é a mãe do aprendizado')
+}
+
+//execute or run or, call, or invoke
+
+creatPhrases()
+creatPhrases()
+creatPhrases()
+creatPhrases()
+
+//function with parameters
 const sum = function(number1, number2){
     total = number1 + number2
     return total
